@@ -1,2 +1,2 @@
 # React-Native
-This is my playground React Native
+This is my playground for React Native
